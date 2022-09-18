@@ -1,0 +1,1987 @@
+
+@media(max-width: 1166px){
+    
+    /* NFTMarketplace open */
+    .nft-marketplace-main-wrap {
+        padding: 0px 30px;
+    }
+    /* NFTMarketplace closed here */
+    .fixed-header {
+        position: fixed;
+        width: 400px;
+        height: 500px;
+        top: 8%;
+        right: 6%;
+        transition: 0.5s;
+    }
+    .topweekly-content > h3{
+        font-size: 16px;
+    }
+    .mention {
+        margin-top: 102px! important;
+    }
+    .wrp-autobox1 {
+        padding: 72px 135px 90px 135px; /* changes */
+    }
+    .btn-center1 > a > img{
+        height: 355px;
+    }
+    .btn-center2 > a > img{
+        height: 355px;
+    }
+
+    .menu-list-d > li > a{
+        font-size: 14px;
+        margin-left: 12px;
+    }
+    .point-c-child {
+        padding: 10px 15px;
+    }
+    .top-headerlist > li > a {
+        font-size: 14px;
+        padding: 8px 10px;
+    }
+    .banner-content > p > br{
+        display: none;
+    }
+    .bnr-img {
+        margin-top: 80px;
+    }
+    .auto-box {
+        width: 190px;
+    }
+    .autocircle-box > img {
+        width: 72px;
+    }
+  
+    .flat-box > img {
+        width: 200px;
+    }
+}
+
+@media(max-width: 992px){
+    .bag-2{
+        position: relative;
+        left: 0;
+        right: 0;
+        z-index: 3;
+    }
+     /* NFTMarketplace open */
+     .nft-marketplace-wrap {
+        display: inherit;
+    }
+    .nft-m-left {
+        height: 700px;
+        width: 100%;
+    }
+    .nft-m-right {
+        margin-top: 50px;
+        height: 700px;
+        width: 100%;
+    }
+    /* NFTMarketplace closed here */
+    .flat-box {
+        margin-top: 40px;
+    }
+    .top-weekly-reponsive{
+        overflow: auto;
+    }
+    .topweekly-list{
+        width: 1000px;
+    }
+    .product-list2{
+        margin-bottom: 30px;
+    }
+    .marketplace-sec2 {
+        padding: 60px 0px 30px 0px;
+    }
+    .file-sec {
+        padding: 80px 0px;
+    }
+    .fixed-header{
+        position: relative;
+        width: 100%;
+        top: 0%;
+        right: 0%;
+        transition: 0.5s;
+        height: 400px;
+    }
+    .wrp-preview{
+        margin-top: 40px;
+    }
+    .preview-img{
+        height: 400px;
+    }
+     /* changes */
+     .btn-center1 > a > img{
+        height: 240px;
+    }
+    .btn-center2 > a > img{
+        height: 240px;
+    }
+    .wrp-autobox1{
+        padding: 50px 38px 78px 50px;
+    }
+    .sec1 {
+        min-height: 100vh;
+    }
+    /* changes */
+    .faq-mobile .faq-singular .faq-question:before {
+        right: -20px;
+        top: 52%;
+        font-size: 24px;
+        font-family: 'Poppins', sans-serif;
+    }
+    .conbutton {
+        background: #21283e;
+        width: 130px;
+        border-color: #ffffff;
+        font-size: 13px;
+        top: 120px;
+        padding: 10px;
+        right: 18px;
+        border-radius: 8px;
+        font-family: 'Poppins', sans-serif;
+        position: absolute;
+    }
+    .mobile-unloackbtn > button{
+        font-size: 13px;
+        top: 6px;
+        padding: 10px;
+        color: #fff;
+        right: -27px;
+        border-radius: 8px;
+        font-family: 'Poppins', sans-serif;
+        background: #21283e;
+        margin-top: 10px;
+    
+    }
+    .bnbmobile-wrp{
+        position: relative;
+    }
+    .bnb-left > h3 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+    }
+    .faq-mobile{
+        display: block;
+    }
+    .sqrBx {
+        display: block;
+    }
+    .onlyDesktop{
+        display: none;
+    }
+    .side-bar{
+        display: none;
+    }
+    .serch-box {
+ 
+        justify-content: space-evenly;
+    }
+    .main-bar{
+        width: 100%;
+    }
+    .second-area {
+        padding: 0px 20px;
+        width: 100%;
+    }
+    .panel-default>.panel-heading a{
+        width: 100%;
+        overflow: auto;
+    }
+    .banner-top-sec{
+        top: 0px;
+    }
+    .staked > label{
+        font-size: 20px;
+        vertical-align: bottom;
+    }
+    .ganaba > label{
+        font-size: 20px;
+    }
+    .conbutton {
+        top: 80px;
+    right: 18px;
+ 
+    }
+    .banner-pool {
+        padding: 15px 20px 10px 20px;
+    }
+    .input-s-box{
+        display: flex;
+        width: 166px;
+    }
+    .input-s-box > input{
+        width: 100%;
+    }
+    .token > h3{
+        font-size: 18px;
+    }
+    .input-s-box > span > img {
+        margin-top: 10px;
+    }
+    .tabs{
+        margin-top: 20px;
+    }
+    .logo-a > img {
+        width: 194px;
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    .wrp-autobox{
+        padding: 60px 50px 95px 50px;
+    }
+ 
+    .auto-content-box > h3 {
+        font-size: 17px;
+    }
+    .wrp-wizgame{
+        padding: 80px 50px 115px 50px;
+        height: auto;
+    }
+    .autocircle-box > img {
+        width: 52px;
+    }
+    .auto-box {
+        width: 130px;
+    }
+    .wrp-roadmap-content {
+        display: inherit;
+    }
+    .wizgame-w {
+        width: 458px;
+        margin: auto;
+        margin-top: 11px;
+    }
+  
+    .flat-box > h3 {
+        font-size: 18px;
+    }
+    .ido-wrp {
+        width: 910px;
+    }
+    .amount-box > p {
+        font-size: 24px;
+    }
+    .main-roadmapbox {
+        padding: 30px 30px;
+        text-align: center;
+    }
+    .roadmapl > img {
+        width: 160px;
+    }
+    #tokenomic-sec {
+        padding: 60px 0px 60px 0px;
+    }
+    .roadmapl {
+        margin-top: 30px;
+    }
+    .dm-list{
+        display: none;
+    }
+    .tokenomic-c{
+        margin-top: 30px;
+    }
+    .roadmap2{
+        margin-top: 30px;
+    }
+    .banner-content{
+        text-align: center;
+    }
+    .mobiletoplist{
+        text-decoration: none;
+        color: #f44906! important;
+        padding: 10px 15px;
+        border-radius: 8px;
+        background-color: #fff;
+    }
+    .banner-content > img {
+        margin-left: 0;
+    }
+    .contract-adr > h3 {
+        font-size: 24px;
+        margin-top: 30px;
+    }
+    #banner-section {
+        padding-bottom: 0px;
+    }
+    .tokenhead2,.head-roadmap,.partner-head,.head-faq,.pools-head,.marketplace-head{
+        width: 480px;
+        background-size: contain;
+        height: 102px;
+    }
+    .pools-head > h3 {
+        padding-top: 10px;
+    }
+    .tokenhead2 > h3 {
+        margin-top: 10px;
+    }
+    .partner-head > h3 {
+        padding-top: 10px;
+    }
+    .head-roadmap > h3{
+        padding-top: 10px;
+    }
+    .responsives{
+        width: 100%;
+        overflow: auto;
+    }
+    .responsives > .wrp-token-box{
+        width: 910px;
+    }
+    h3{
+        font-size: 32px;
+    }
+    .head-faq > h3 {
+        padding-top: 10px;
+    }
+  
+    .border-b {
+        background-color: #305f91;
+        padding: 20px 0px;
+    }
+    .bnr-img {
+        margin-top: 60px;
+        text-align: center;
+    }
+    .bnr-img > img {
+        width: 50%;
+    }
+    .top-header-bg{
+        display: none;
+    }
+    .header-c1 {
+        display: block;
+    }
+   
+    .toggle-slide-right {
+        display: block;
+    }
+    .header-c2 {
+        display: block;
+    }
+    
+    .menu-list-d{
+        display: none;
+    }
+    .menu-list > li {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .menu-list > li > a {
+        font-size: 12px;
+    }
+    .tokenhead1 > img {
+        width: 70px;
+    }
+    .tokenhead3 > img {
+        width: 70px;
+    }
+    .marketplace-head > h3 {
+        padding-top: 9px;
+    }
+    .dropbtn {
+        padding: 0px 0px;
+        margin-left: 0px;
+        margin-top: 13px;
+    }
+    .bag-3{
+        position: relative;
+        left: -42px;
+        right: 0;
+        z-index: 3;
+      }
+    
+}
+@media(max-width: 767px){
+    .bag-3{
+        position: relative;
+        left: -42px;
+        right: 0;
+        z-index: 3;
+      }
+    .bag-2{
+        position: relative;
+        left: 0;
+        right: 0;
+        z-index: 3;
+    }
+      /* NFTMarketplace open */
+      .nft-m-left {
+        height: 410px;
+        width: 100%;
+    }
+    .nft-m-right {
+        height: 410px;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .nft-marketplace-main-wrap {
+        padding: 0px 0px;
+    }
+    .nft-marketplace-heading {
+        padding-top: 30px;
+    }
+    .nft-marketplace-heading > h3 {
+        font-size: 48px;
+    }
+    /* NFTMarketplace closed here */
+}
+
+@media(max-width: 580px){
+    .marketplace-sec2 {
+        padding: 40px 0px 10px 0px;
+    }
+    .head-marketchild2 > h3{
+        font-size: 24px;
+    }
+    .create-head > h4 {
+        font-size: 22px;
+    }
+    .craete-c-img {
+        margin: 25px 0px;
+    }
+    .wrp-create-head{
+        height: 100px;
+    }
+    .collection-b{
+        margin-top: 25px;
+    }
+    .view-btn > a{
+        margin-top: 10px;
+    }
+    .visit-website {
+        margin-left: 0px;
+    }
+    .featured-list > li {
+        width: 100%;
+        height: 185px;
+    }
+    .top-weekly-sec {
+        padding: 40px 0px 0px 0px;
+    }
+    .loadmore-btn {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .featuredlist-img {
+        width: 100px;
+        height: 90px;
+    }
+    .create-head {
+        height: 100px;
+    }
+    .create-head > h4{
+        line-height: 100px;
+    }
+    .mainwrp{
+        padding: 20px;
+    }
+    /* changes */
+
+    .btn-center{
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .btn-center a img {
+        width: 71%;
+        margin-left: -13px;
+    }
+    .btn-center1{
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .btn-center1 a img{
+        width: 230px;
+        height: 395px;
+        margin-right: 25px;
+    }
+    .btn-center2{
+        text-align: center;
+    }
+    .btn-center2 a img{
+        width: 230px;
+        height: 395px;
+        margin-left: -1px;
+    }
+
+    /* changes */
+    .bannermain-bg{
+        background-size: cover;
+    }
+    .bnb-left > h3{
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+    }
+    .wrp-faq {
+        padding: 20px;
+    }
+    .main-roadmapbox {
+        padding: 20px 20px;
+    }
+    #wingame-sec{
+        padding-bottom: 40px;
+    }
+    .game-head > h3 {
+        padding-top: 10px;
+    }
+    .ido-box > h3 {
+        font-size: 16px;
+    }
+    .tokenboxc > h3 {
+        font-size: 16px;
+    }
+    .logo-box > a > img {
+        width: 104px;
+    }
+    .contract-adr > h3 {
+        font-size: 20px;
+        margin-top: 25px;
+    }
+    .wrp-wizgame {
+        padding: 0px;
+    }
+    .contract-adr > input {
+        width: 100%;
+        font-size: 12px;
+        text-align: center;
+    }
+   
+    .bnr-btn > a{
+        font-size: 15px;
+    }
+    .contract-adr > button {
+        padding: 6px 20px;
+        font-size: 14px;
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .bnr-img {
+        margin-top: 40px;
+    }
+    .bnr-img > img {
+        width: 80%;
+    }
+    .block__title {
+        font-size: 12px;
+    }
+    .block__text {
+        font-size: 13px;
+    }
+    #tokenomic-sec {
+        padding: 40px 0px 40px 0px;
+    }
+    .tokenhead1,.tokenhead3{
+        display: none;
+    }
+    .wrp-tokenhead{
+        display: inherit;
+    }
+    .tokenhead2, .head-roadmap, .partner-head, .head-faq,.head-features,.game-head,.pools-head,.marketplace-head {
+        width: 100%;
+        background-size: 100% 100%;
+        height: 82px;
+    }
+    h3 {
+        font-size: 24px;
+    }
+    .tokenhead2 > h3 {
+        margin-top: 0px;
+        padding-top: 10px;
+    }
+    .amount-box > p {
+        font-size: 18px;
+    }
+    .amount-box {
+        padding: 30px 0px;
+     
+    }
+    #partner-sec{
+        padding-bottom: 40px;
+        background-size: cover;
+    }
+    #features-sec {
+        padding-bottom: 40px;
+    }
+    .head-roadmap > h3 {
+        padding-top: 10px;
+    }
+    .tokenomic-c > h3 {
+        font-size: 18px;
+    }
+    .automated-wrp {
+        padding: 0px 0px;
+    }
+    .automated-wrp > h3{
+        font-size: 18px;
+    }
+    .wrp-tokengrt-list {
+        display: inherit;
+    }
+    .head-faq > h3 {
+        padding-top: 10px;
+    }
+    .block__title {
+        font-size: 12px;
+    }
+    #faq-section {
+        padding: 40px 0px;
+    }
+    .partner-head > h3 {
+        padding-top: 10px;
+    }
+    .head-features > h3 {
+        padding-top: 10px;
+    }
+    
+    .wrp-partner-bgimg {
+        background-image: url(../images/mobiler3.png);
+        background-size: 100% 100%;
+        height: auto;
+    }
+    .wrp-autobox {
+        padding: 95px 50px 95px 50px;
+    }
+    .autocircle-box{
+        padding: 15px 0px;
+    }
+    .wrp-autobox{
+        display: inherit;
+    }
+    .auto-box {
+        width: 200px;
+        margin-left: 0px;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .autocircle-box > img {
+        width: 80px;
+    }
+    .wrp-wizgame{
+        background-image: url(../images/mobiler.png);
+        background-size: 100% 100%;
+        padding-bottom: 25px;
+        padding-top: 25px;
+        height: auto;
+    }
+    .wizgame-w {
+        width: 100%;
+        margin: auto;
+    }
+    .flat-box{
+        margin-top: 20px;
+    } .bag-3{
+        position: relative;
+        left: -42px;
+        right: 0;
+        z-index: 3;
+      }
+    
+   
+}
+
+@media(max-width: 580px){
+    .bag-3{
+        position: relative;
+        left: -42px;
+        right: 0;
+        z-index: 3;
+      }
+    .bag-2{
+        position: relative;
+        left: 0;
+        right: 0;
+        z-index: 3;
+    }
+    .banner-pool > h3 {
+        font-size: 24px;
+    }
+    .nft-content{
+        width: 100%;
+        margin-top: 40px;
+    }
+    .stake-head {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .inactive-box > h4{
+        font-size: 16px;
+        padding: 5px 10px! important;
+        margin-left: 0px! important;
+    }
+    .burgers > img {
+        width: 32px;
+    }
+    .bg-footer {
+        padding: 35px 0px;
+    }
+    .faq-singular {
+        padding: 0 20px 0 0px;
+    }
+    .tabs3 a{
+        font-size: 14px;
+    }
+    .sqrBx{
+        margin-left: 0px;
+        font-size: 14px;
+    }
+    .main-bg{
+        background-size: cover;
+    }
+    .logo-a > img {
+        width: 160px;
+        margin-left: 0px;
+        right: 0;
+        left: 0;
+        position: absolute;
+        top: 140px;
+        margin: auto;
+    }
+    .top-header{
+        padding: 35px 20px 0px 20px;
+    }
+  
+    .wrp-staked > button{
+        margin-bottom: 5px;
+
+    }
+    .top-menu{
+        display: none;
+    }
+    .social-list > li > a > img {
+        width: 36px;
+    }
+    .banner-pool > p{
+        font-size: 20px;
+        
+    }
+
+    .staked > label {
+        font-size: 20px;
+        vertical-align: bottom;
+    }
+    .ganaba > label{
+        font-size: 14px;
+    }
+    .main-wrp-staked{
+        justify-content: center;
+    }
+    .staked > input{
+        height: 18px;
+        width: 18px;
+    }
+    
+    .ganaba > input{
+        height: 18px;
+        width: 18px;
+    }
+    .banner-pool > p > br{
+        display: none;
+    }
+    .second-area {
+        padding: 0px 0px;
+    }
+    
+    .banner-top-sec{
+        display: inherit;
+    }
+    .banner-pool {
+        padding: 0px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .banner-pool > p{
+        font-size: 14px;
+    }
+    .banner-pool > p > br{
+        display: none;
+    }
+    .input-s-box{
+        width: 170px;
+        display: flex;
+    }
+    .input-s-box > input{
+        width: 100%;
+    }
+    .input-s-box > span > img {
+        margin-top: 10px;
+    }
+    .inactive-box {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .tabs{
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .img-bison > img {
+        width: 50px;
+        vertical-align: middle;
+    }
+    .bg-bison{
+        height: 45px;
+    }
+    .img-bison-c > img {
+        width: 12px;
+        margin: 8px 15px;
+    }
+    .token > h3{
+        font-size: 15px;
+    }
+    .wrp-bison {
+        width: 630px;
+    }
+
+    .apr-c {
+        width: 120px;
+    }
+    .arp-list2 {
+        width: auto;
+    }
+    .arp-list2{
+        margin-right: 0px;
+    }
+    .wrp-staked {
+        margin-left: 20px;
+    }
+    .bnr-btn > a {
+        padding: 8px 28px;
+
+    }
+    .banner-content > h3 {
+        font-size: 26px;
+        margin-top: 15px;
+    }
+    p {
+        font-size: 13px;
+    }
+}
+
+
+
+
+
+
+
+@media(max-width: 1166px){
+
+    /* pools2 page css open here */
+    .deposits-head > h3{
+        font-size: 28px;
+    }
+    /* pools2 page css closed here */
+    .fixed-header {
+        position: fixed;
+        width: 400px;
+        height: 500px;
+        top: 8%;
+        right: 6%;
+        transition: 0.5s;
+    }
+   
+    .topweekly-content > h3{
+        font-size: 16px;
+    }
+    .mention {
+        margin-top: 102px! important;
+    }
+    .wrp-autobox1 {
+        padding: 100px 135px 90px 135px; /* changes */
+    }
+    .btn-center1 > a > img{
+        height: 355px;
+    }
+    .btn-center2 > a > img{
+        height: 355px;
+    }
+
+    .menu-list-d > li > a{
+        font-size: 14px;
+        margin-left: 12px;
+    }
+    .point-c-child {
+        padding: 10px 15px;
+    }
+    .top-headerlist > li > a {
+        font-size: 14px;
+        padding: 8px 10px;
+    }
+    .banner-content > p > br{
+        display: none;
+    }
+    .bnr-img {
+        margin-top: 80px;
+    }
+    .auto-box {
+        width: 190px;
+    }
+    .autocircle-box > img {
+        width: 72px;
+    }
+  
+    .flat-box > img {
+        width: 200px;
+    }
+}
+
+@media(max-width: 992px){
+
+    
+
+    /* pools2 page css open here */
+    .deposits-head > h3 {
+        font-size: 22px;
+    }
+    .your-balance-box{
+        text-align: center;
+    }
+    .pools2-content{
+        text-align: center;
+    }
+    .text-rights{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .archer-img{
+        height: 200px;
+        border-radius: 16px;
+    }
+    .tires-b{
+        border-radius: 16px;
+        margin-bottom: 25px;
+    }
+    .head-tires-b > p{
+        text-align: center;
+    }
+    .knight-box-wrp{
+        margin-top: 20px;
+    }
+    .limit-box{
+        height: 300px;
+        margin-top: 30px;
+    }
+    .head-limit {
+        margin: 30px 0px 0px 0px;
+    }
+    .css-19kzrtu {
+        margin-top: 20px;
+    }
+    .undead-box{
+        margin-bottom: 25px;
+    }
+    .mrt-topun {
+        margin-top: 0px;
+    }
+    .wrp-p-c {
+        margin-top: 5px;
+    }
+    .undead-head-child1 > h3 {
+        font-size: 36px;
+    }
+    .sale-price-box{
+        height: auto;
+    }
+    .main-balance-box {
+        margin-top: 30px;
+    }
+    /* pools page css closed here */
+    .flat-box {
+        margin-top: 40px;
+    }
+    .top-weekly-reponsive{
+        overflow: auto;
+    }
+    .topweekly-list{
+        width: 1000px;
+    }
+    .product-list2{
+        margin-bottom: 30px;
+    }
+    .marketplace-sec2 {
+        padding: 60px 0px 30px 0px;
+    }
+    .file-sec {
+        padding: 80px 0px;
+    }
+    .fixed-header{
+        position: relative;
+        width: 100%;
+        top: 0%;
+        right: 0%;
+        transition: 0.5s;
+        height: 400px;
+    }
+    .wrp-preview{
+        margin-top: 40px;
+    }
+    .preview-img{
+        height: 400px;
+    }
+     /* changes */
+     .btn-center1 > a > img{
+        height: 240px;
+    }
+    .btn-center2 > a > img{
+        height: 240px;
+    }
+    .wrp-autobox1{
+        padding: 100px 38px 70px 50px;
+    }
+    .sec1 {
+        min-height: 100vh;
+    }
+    /* changes */
+    .faq-mobile .faq-singular .faq-question:before {
+        right: -20px;
+        top: 52%;
+        font-size: 24px;
+        font-family: 'Poppins', sans-serif;
+    }
+    .conbutton {
+        background: #21283e;
+        width: 130px;
+        border-color: #ffffff;
+        font-size: 13px;
+        top: 120px;
+        padding: 10px;
+        right: 18px;
+        border-radius: 8px;
+        font-family: 'Poppins', sans-serif;
+        position: absolute;
+    }
+    .mobile-unloackbtn > button{
+        font-size: 13px;
+        top: 6px;
+        padding: 10px;
+        color: #fff;
+        right: -27px;
+        border-radius: 8px;
+        font-family: 'Poppins', sans-serif;
+        background: #21283e;
+        margin-top: 10px;
+    
+    }
+    .bnbmobile-wrp{
+        position: relative;
+    }
+    .bnb-left > h3 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+    }
+    .faq-mobile{
+        display: block;
+    }
+    .sqrBx {
+        display: block;
+    }
+    .onlyDesktop{
+        display: none;
+    }
+    .side-bar{
+        display: none;
+    }
+    .serch-box {
+ 
+        justify-content: space-evenly;
+    }
+    .main-bar{
+        width: 100%;
+    }
+    .second-area {
+        padding: 0px 20px;
+        width: 100%;
+    }
+    .panel-default>.panel-heading a{
+        width: 100%;
+        overflow: auto;
+    }
+    .banner-top-sec{
+        top: 0px;
+    }
+    .staked > label{
+        font-size: 20px;
+        vertical-align: bottom;
+    }
+    .ganaba > label{
+        font-size: 20px;
+    }
+    .conbutton {
+        top: 80px;
+    right: 18px;
+ 
+    }
+    .banner-pool {
+        padding: 15px 20px 10px 20px;
+    }
+    .input-s-box{
+        display: flex;
+        width: 166px;
+    }
+    .input-s-box > input{
+        width: 100%;
+    }
+    .token > h3{
+        font-size: 18px;
+    }
+    .input-s-box > span > img {
+        margin-top: 10px;
+    }
+    .tabs{
+        margin-top: 20px;
+    }
+    .logo-a > img {
+        width: 194px;
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    .wrp-autobox{
+        padding: 60px 50px 95px 50px;
+    }
+ 
+    .auto-content-box > h3 {
+        font-size: 17px;
+    }
+    .wrp-wizgame{
+        padding: 80px 50px 115px 50px;
+        height: auto;
+    }
+    .autocircle-box > img {
+        width: 52px;
+    }
+    .auto-box {
+        width: 130px;
+    }
+    .wrp-roadmap-content {
+        display: inherit;
+    }
+    .wizgame-w {
+        width: 458px;
+        margin: auto;
+        margin-top: 11px;
+    }
+  
+    .flat-box > h3 {
+        font-size: 18px;
+    }
+    .ido-wrp {
+        width: 910px;
+    }
+    .amount-box > p {
+        font-size: 24px;
+    }
+    .main-roadmapbox {
+        padding: 30px 30px;
+        text-align: center;
+    }
+    .roadmapl > img {
+        width: 160px;
+    }
+    #tokenomic-sec {
+        padding: 60px 0px 60px 0px;
+    }
+    .roadmapl {
+        margin-top: 30px;
+    }
+    .dm-list{
+        display: none;
+    }
+    .tokenomic-c{
+        margin-top: 30px;
+    }
+    .roadmap2{
+        margin-top: 30px;
+    }
+    .banner-content{
+        text-align: center;
+    }
+    .mobiletoplist{
+        text-decoration: none;
+        color: #f44906! important;
+        padding: 10px 15px;
+        border-radius: 8px;
+        background-color: #fff;
+    }
+    .banner-content > img {
+        margin-left: 0;
+    }
+    .contract-adr > h3 {
+        font-size: 24px;
+        margin-top: 30px;
+    }
+    #banner-section {
+        padding-bottom: 0px;
+    }
+    .tokenhead2,.head-roadmap,.partner-head,.head-faq,.pools-head,.marketplace-head{
+        width: 480px;
+        background-size: contain;
+        height: 102px;
+    }
+    .pools-head > h3 {
+        padding-top: 10px;
+    }
+    .tokenhead2 > h3 {
+        margin-top: 10px;
+    }
+    .partner-head > h3 {
+        padding-top: 10px;
+    }
+    .head-roadmap > h3{
+        padding-top: 10px;
+    }
+    .responsives{
+        width: 100%;
+        overflow: auto;
+    }
+    .responsives > .wrp-token-box{
+        width: 910px;
+    }
+    h3{
+        font-size: 32px;
+    }
+    .head-faq > h3 {
+        padding-top: 10px;
+    }
+  
+    .border-b {
+        background-color: #305f91;
+        padding: 20px 0px;
+    }
+    .bnr-img {
+        margin-top: 60px;
+        text-align: center;
+    }
+    .bnr-img > img {
+        width: 50%;
+    }
+    .top-header-bg{
+        display: none;
+    }
+    .header-c1 {
+        display: block;
+    }
+   
+    .toggle-slide-right {
+        display: block;
+    }
+    .header-c2 {
+        display: block;
+    }
+    
+    .menu-list-d{
+        display: none;
+    }
+    .menu-list > li {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .menu-list > li > a {
+        font-size: 12px;
+    }
+    .tokenhead1 > img {
+        width: 70px;
+    }
+    .tokenhead3 > img {
+        width: 70px;
+    }
+    .marketplace-head > h3 {
+        padding-top: 9px;
+    }
+    .dropbtn {
+        padding: 0px 0px;
+        margin-left: 0px;
+        margin-top: 13px;
+    }
+    
+}
+@media(max-width: 767px){
+    #banner-section{
+        padding: 20px;
+    }
+    .wrp-autobox1 {
+        padding: 140px 38px 80px 50px;
+    }
+    .react-multi-carousel-track > li > div > a{
+        margin-right: 0px;
+    }
+    
+    /* pools2 page css open here */
+    .wrp-token-ticket{
+        display: inherit;
+    }
+    .wrp-t-child1{
+        text-align: center;
+    }
+    .wrp-p-c{
+        text-align: center;
+    }
+    .undead-head-wrp{
+        display: inherit;
+        text-align: center;
+        margin-top: 0px;
+    }
+    .undead-head-child1 > h3 {
+        font-size: 30px;
+    }
+    .wrp-p-c > p{
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .vesting-wrp{
+        display: inherit;
+        margin-top: 0px;
+    }
+    
+    .vesting-child1{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .pools2-content{
+        text-align: center;
+    }
+    .text-rights {
+        text-align: center;
+        margin-top: 25px;
+    }
+    .undead-c-child2 > h3 {
+        font-size: 20px;
+    }
+    .social-listp > li > a > img {
+        width: 18px;
+    }
+    
+    /* pools page css closed here */
+}
+@media(max-width: 640px){
+    .limit-box {
+        height: 200px;
+    }
+     
+
+}
+@media(max-width: 580px){
+
+    /* slide css open here */
+    
+    /* slide css closed here */
+
+    /* pools page css open here */
+    .undead-c-child2 > h3 {
+        font-size: 15px;
+    }
+    .archer-img{
+        height: auto;
+    }
+    .deposits-head > h3 {
+        font-size: 18px;
+    }
+    .tires-child1 > p{
+        font-size: 13px;
+    }
+    .archer-c-child1 > p > span{
+        font-size: 20px;
+    }
+    .stake-btns > button{
+        font-size: 14px;
+    }
+    .tires-child1 > p > img {
+        width: 40px;
+        margin-right: 5px;
+    }
+    .knight-box > h3{
+        font-size: 20px;
+    }
+    .your-balance-box > p > span{
+        font-size: 24px;
+    }
+    .your-balance-box{
+        padding: 25px 25px;
+    }
+    .archer-img > h3{
+        font-size: 24px;
+    }
+    .tires-b{
+        padding: 20px 20px;
+    }
+    .tires-b > h3{
+        font-size: 18px;
+    }
+    .wrp-t-child1 > img{
+        width: 200px;
+    }
+    .undead-head-child1 > h3 {
+        font-size: 24px;
+    }
+    .balances-child1 > p > span{
+        font-size: 22px;
+    }
+    .maxusd-child1 > span{
+        font-size: 13px;
+    }
+    .maxusd-child2 > button{
+        width: 75px;
+        font-size: 14px;
+    }
+    .head-limit > h3 {
+        font-size: 24px;
+    }
+    .limit-box{
+        height: auto;
+        margin-top: 20px;
+    }
+    .limit-c > p,.limit-c > h3{
+        font-size: 16px;
+    }
+    .wizardinfobg {
+        background-color: #21283E;
+        padding: 30px 0px 40px 0px;
+    }
+    .maxusd-child1 > input{
+        font-size: 13px;
+    }
+    .wrp-contribute{
+        margin-top: 20px;
+    }
+    .progress-info-c{
+        margin-top: 15px;
+    }
+    .wrp-p-c > p{
+        margin-top: 15px;
+    }
+    .vesting-child1{
+        text-align: center;
+    }
+    .sale-price-box{
+        text-align: center;
+    }
+    .contribute-child1 > p > span{
+        font-size: 22px;
+    }
+    .undead-head-child1 > p{
+        margin-top: 15px;
+    }
+    
+    /* pools page css closed here */
+
+    .marketplace-sec2 {
+        padding: 40px 0px 10px 0px;
+    }
+    .head-marketchild2 > h3{
+        font-size: 24px;
+    }
+    .create-head > h4 {
+        font-size: 22px;
+    }
+    .craete-c-img {
+        margin: 25px 0px;
+    }
+    .wrp-create-head{
+        height: 100px;
+    }
+    .collection-b{
+        margin-top: 25px;
+    }
+    .view-btn > a{
+        margin-top: 10px;
+    }
+    .visit-website {
+        margin-left: 0px;
+    }
+    .featured-list > li {
+        width: 100%;
+        height: 185px;
+    }
+    .top-weekly-sec {
+        padding: 40px 0px 0px 0px;
+    }
+    .loadmore-btn {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .featuredlist-img {
+        width: 100px;
+        height: 90px;
+    }
+    .create-head {
+        height: 100px;
+    }
+    .create-head > h4{
+        line-height: 100px;
+    }
+    .mainwrp{
+        padding: 20px;
+    }
+    /* changes */
+
+    .btn-center{
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .btn-center a img {
+        width: 71%;
+        margin-left: -13px;
+    }
+    .btn-center1{
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .btn-center1 a img{
+        width: 230px;
+        height: 395px;
+        margin-right: 25px;
+    }
+    .btn-center2{
+        text-align: center;
+    }
+    .btn-center2 a img{
+        width: 230px;
+        height: 395px;
+        margin-left: -1px;
+    }
+
+    /* changes */
+    .bannermain-bg{
+        background-size: cover;
+    }
+    .bnb-left > h3{
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+    }
+    .wrp-faq {
+        padding: 20px;
+    }
+    .main-roadmapbox {
+        padding: 20px 20px;
+    }
+    #wingame-sec{
+        padding-bottom: 40px;
+    }
+    .game-head > h3 {
+        padding-top: 10px;
+    }
+    .ido-box > h3 {
+        font-size: 16px;
+    }
+    .tokenboxc > h3 {
+        font-size: 16px;
+    }
+    .logo-box > a > img {
+        width: 104px;
+    }
+    .contract-adr > h3 {
+        font-size: 20px;
+        margin-top: 25px;
+    }
+    .wrp-wizgame {
+        padding: 0px;
+    }
+    .contract-adr > input {
+        width: 100%;
+        font-size: 12px;
+        text-align: center;
+    }
+   
+    .bnr-btn > a{
+        font-size: 15px;
+    }
+    .contract-adr > button {
+        padding: 6px 20px;
+        font-size: 14px;
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .bnr-img {
+        margin-top: 40px;
+    }
+    .bnr-img > img {
+        width: 80%;
+    }
+    .block__title {
+        font-size: 12px;
+    }
+    .block__text {
+        font-size: 13px;
+    }
+    #tokenomic-sec {
+        padding: 40px 0px 40px 0px;
+    }
+    .tokenhead1,.tokenhead3{
+        display: none;
+    }
+    .wrp-tokenhead{
+        display: inherit;
+    }
+    .tokenhead2, .head-roadmap, .partner-head, .head-faq,.head-features,.game-head,.pools-head,.marketplace-head {
+        width: 100%;
+        background-size: 100% 100%;
+        height: 82px;
+    }
+    h3 {
+        font-size: 24px;
+    }
+    .tokenhead2 > h3 {
+        margin-top: 0px;
+        padding-top: 10px;
+    }
+    .amount-box > p {
+        font-size: 18px;
+    }
+    .amount-box {
+        padding: 30px 0px;
+     
+    }
+    #partner-sec{
+        padding-bottom: 40px;
+        background-size: cover;
+    }
+    #features-sec {
+        padding-bottom: 40px;
+    }
+    .head-roadmap > h3 {
+        padding-top: 10px;
+    }
+    .tokenomic-c > h3 {
+        font-size: 18px;
+    }
+    .automated-wrp {
+        padding: 0px 0px;
+    }
+    .automated-wrp > h3{
+        font-size: 18px;
+    }
+    .wrp-tokengrt-list {
+        display: inherit;
+    }
+    .head-faq > h3 {
+        padding-top: 10px;
+    }
+    .block__title {
+        font-size: 12px;
+    }
+    #faq-section {
+        padding: 40px 0px;
+    }
+    .partner-head > h3 {
+        padding-top: 10px;
+    }
+    .head-features > h3 {
+        padding-top: 10px;
+    }
+    
+    .wrp-partner-bgimg {
+        background-image: url(../images/mobiler3.png);
+        background-size: 100% 100%;
+        height: auto;
+    }
+    .wrp-autobox {
+        padding: 95px 50px 95px 50px;
+    }
+    .autocircle-box{
+        padding: 15px 0px;
+    }
+    .wrp-autobox{
+        display: inherit;
+    }
+    .auto-box {
+        width: 200px;
+        margin-left: 0px;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .autocircle-box > img {
+        width: 80px;
+    }
+    .wrp-wizgame{
+        background-image: url(../images/mobiler.png);
+        background-size: 100% 100%;
+        padding-bottom: 25px;
+        padding-top: 25px;
+        height: auto;
+    }
+    .wizgame-w {
+        width: 100%;
+        margin: auto;
+    }
+    .flat-box{
+        margin-top: 20px;
+    }
+    
+   
+}
+
+@media(max-width: 580px){
+    .banner-pool > h3 {
+        font-size: 24px;
+    }
+    .nft-content{
+        width: 100%;
+        margin-top: 40px;
+    }
+    .stake-head {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .inactive-box > h4{
+        font-size: 16px;
+        padding: 5px 10px! important;
+        margin-left: 0px! important;
+    }
+    .burgers > img {
+        width: 32px;
+    }
+    .bg-footer {
+        padding: 35px 0px;
+    }
+    .faq-singular {
+        padding: 0 20px 0 0px;
+    }
+    .tabs3 a{
+        font-size: 14px;
+    }
+    .sqrBx{
+        margin-left: 0px;
+        font-size: 14px;
+    }
+    .main-bg{
+        background-size: cover;
+    }
+    .logo-a > img {
+        width: 160px;
+        margin-left: 0px;
+        right: 0;
+        left: 0;
+        position: absolute;
+        top: 140px;
+        margin: auto;
+    }
+    .top-header{
+        padding: 35px 20px 0px 20px;
+    }
+  
+    .wrp-staked > button{
+        margin-bottom: 5px;
+
+    }
+    .top-menu{
+        display: none;
+    }
+    .social-list > li > a > img {
+        width: 36px;
+    }
+    .banner-pool > p{
+        font-size: 20px;
+        
+    }
+
+    .staked > label {
+        font-size: 20px;
+        vertical-align: bottom;
+    }
+    .ganaba > label{
+        font-size: 14px;
+    }
+    .main-wrp-staked{
+        justify-content: center;
+    }
+    .staked > input{
+        height: 18px;
+        width: 18px;
+    }
+    
+    .ganaba > input{
+        height: 18px;
+        width: 18px;
+    }
+    .banner-pool > p > br{
+        display: none;
+    }
+    .second-area {
+        padding: 0px 0px;
+    }
+    
+    .banner-top-sec{
+        display: inherit;
+    }
+    .banner-pool {
+        padding: 0px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .banner-pool > p{
+        font-size: 14px;
+    }
+    .banner-pool > p > br{
+        display: none;
+    }
+    .input-s-box{
+        width: 170px;
+        display: flex;
+    }
+    .input-s-box > input{
+        width: 100%;
+    }
+    .input-s-box > span > img {
+        margin-top: 10px;
+    }
+    .inactive-box {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .tabs{
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .img-bison > img {
+        width: 50px;
+        vertical-align: middle;
+    }
+    .bg-bison{
+        height: 45px;
+    }
+    .img-bison-c > img {
+        width: 12px;
+        margin: 8px 15px;
+    }
+    .token > h3{
+        font-size: 15px;
+    }
+    .wrp-bison {
+        width: 630px;
+    }
+
+    .apr-c {
+        width: 120px;
+    }
+    .arp-list2 {
+        width: auto;
+    }
+    .arp-list2{
+        margin-right: 0px;
+    }
+    .wrp-staked {
+        margin-left: 20px;
+    }
+    .bnr-btn > a {
+        padding: 8px 28px;
+
+    }
+    .banner-content > h3 {
+        font-size: 26px;
+        margin-top: 15px;
+    }
+    p {
+        font-size: 13px;
+    }
+}
+
+ 
+
+
+/* today my responsive open */
+@media(max-width: 1166px){
+    .login-main-rwap {
+        padding: 50px 0px;
+    }
+}
+@media(max-width: 992px){
+    .dashboard {
+        display: inherit;
+    }
+    .dashboard-cont-cntr {
+        margin-top: 30px;
+    }
+    .dashboard-cont-right {
+        margin-top: 10px;
+    }
+    
+}
+
+@media(max-width: 767px){
+    .login-main-rwap {
+        padding: 30px 0px;
+    }
+    .dashbord-input > input {
+        font-size: 14px;
+    }
+    .dashboard-cont-cntr > h3 {
+        font-size: 16px;
+    }
+    .dashboard-cont-right > h3 {
+        font-size: 16px;
+    }
+    .dashboard-but {
+        display: inherit;
+        justify-content: flex-start;
+    }
+    .purchase-but {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .claim-but {
+        margin-top: 20px;
+    }
+    .hist-list {
+        display: inherit;
+    }
+    .history-wrap {
+        padding: 15px;
+    }
+    .hist-list > h3 {
+        font-size: 16px;
+        width: 100%;
+    }
+    .claim-but > a {
+        display: inline-block;
+        background-color: #305f91;
+        padding: 6px 20px;
+        border-radius: 8px;
+        font-size: 14px;
+    }
+    .purchase-but > a {
+        padding: 6px 20px;
+        border-radius: 8px;
+        color: #305f91;
+        font-size: 14px;
+    }
+    .history-wrap {
+        display: none;
+    }
+    .history-wrap-mob {
+        display: block;
+    }
+    .hist-line-mob {
+    background-color: #fff;
+    height: 1px;
+    margin: 10px 0px;
+    }
+    .history-mob {
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+    }
+    .history-mob > li {
+        margin-top: 20px;
+    }
+    .history-mob > li:first-child{
+        margin-top: 0px;
+    }
+    .history-wrap-mob {
+        margin-top: 20px;
+        border: 1px solid #fff;
+        padding: 30px;
+        border-radius: 12px;
+    }
+    .hist-list-mob > h3 {
+        font-size: 16px;
+    }
+    .hist-list-mob > p {
+        font-size: 14px;
+    }
+}
+/* today my responsive-close */
+
+

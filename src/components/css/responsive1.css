@@ -1,0 +1,255 @@
+@media(max-width: 1500px){
+
+    .wrp-choose-c {
+     
+        margin-top: 100px;
+    }
+    .choose-img > img {
+        width: 100%;
+    }
+    .choose-img {
+        width: 100%;
+        margin-top: 50px;
+    }
+    .btn-choose {
+        width: 100%;
+    }
+
+    /* choose css */
+
+}
+@media(max-width: 992px){
+
+    .bscscan > a{
+    font-weight: 600;
+    font-size: 13px;
+    color: #fff;
+    padding: 0px! important;
+    text-decoration: underline;
+}
+    #choose-sec {
+        margin-left: 0px;
+    }
+
+        /* choose css */
+        .wrp-satke{
+            width: 100%;
+            overflow: auto;
+        }
+        .wrp-choose-c{
+            width: 100%;
+        }
+        .choose-img > img{
+            width: 95%;
+        }
+        .btn-choose {
+            width: 95%;
+        }
+        /* choose css */
+        
+    .faq-mobile{
+        display: block;
+    }
+    .sqrBx {
+        display: block;
+    }
+    .onlyDesktop{
+        display: none;
+    }
+    .side-bar{
+        display: none;
+    }
+    .serch-box {
+ 
+        justify-content: space-evenly;
+    }
+    .main-bar{
+        width: 100%;
+    }
+    .second-area {
+        width: 100%;
+        overflow: auto;
+    }
+    .panel-default>.panel-heading a{
+        width: 100%;
+        overflow: auto;
+    }
+    .banner-top-sec{
+        top: 0px;
+    }
+    .staked > label{
+        font-size: 20px;
+        vertical-align: bottom;
+    }
+    .ganaba > label{
+        font-size: 20px;
+    }
+    .conbutton {
+     
+        top: 80px;
+    right: 18px;
+ 
+    }
+
+    .input-s-box{
+        display: flex;
+        width: 166px;
+    }
+    .input-s-box > input{
+        width: 100%;
+    }
+    .input-s-box > span > img {
+        margin-top: 10px;
+    }
+    .tabs{
+        margin-top: 20px;
+    }
+    .logo-a > img {
+        width: 194px;
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    .tabs6{
+        display: inherit;
+    }
+    .tab-button{
+        text-align: center;
+        padding-bottom: 15px;
+    }
+}
+@media(max-width: 580px){
+       /* new page responsive */
+       .token1 > h3 {
+        font-weight: 500;
+        font-size: 16px;
+        color: #fff;
+        
+    }
+    .bg-choose{
+        height: auto;
+    }
+    .apr-c1 > h3{
+        font-size: 16px;
+    }
+ 
+    .admission-box{
+        width: 100%;
+    }
+    .nft-content > h3{
+        font-size: 22px;
+    }
+    .nft-content > h4{
+        font-size: 20px;
+    }
+    .time-box > h3{
+        font-size: 18px;
+    }
+    .addlist-c4 > span{
+        font-size: 13px;
+    }
+    .nft-content > p{
+        font-size: 14px;
+    }
+
+    .main-bg{
+        background-size: cover;
+    }
+    .logo-a > img {
+        width: 160px;
+        margin-left: 0px;
+        right: 0;
+        left: 0;
+        position: absolute;
+        top: 140px;
+        margin: auto;
+    }
+    .top-header{
+        padding: 35px 20px 0px 20px;
+    }
+    .wrp-staked > button{
+        margin-bottom: 5px;
+
+    }
+    .top-menu{
+        display: none;
+    }
+    .social-list > li > a > img {
+        width: 36px;
+    }
+
+
+    .staked > label {
+        font-size: 20px;
+        vertical-align: bottom;
+    }
+    .ganaba > label{
+        font-size: 15px;
+    }
+
+    .staked > input{
+        height: 18px;
+        width: 18px;
+    }
+    .ganaba > input{
+        height: 18px;
+        width: 18px;
+    }
+    .banner-pool > p > br{
+        display: none;
+    }
+   
+    .banner-top-sec{
+        display: inherit;
+    }
+
+    .input-s-box{
+        width: 170px;
+        display: flex;
+    }
+    .input-s-box > input{
+        width: 100%;
+    }
+    .input-s-box > span > img {
+        margin-top: 10px;
+    }
+    .inactive-box {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .tabs{
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .img-bison > img {
+        width: 50px;
+        vertical-align: middle;
+    }
+    .bg-bison{
+        height: 45px;
+    }
+    .img-bison-c > img {
+        width: 12px;
+        margin: 8px 15px;
+    }
+    .wrp-bison {
+        width: 630px;
+    }
+    .bottom-list{
+        margin-left: 0px;
+        justify-content: unset;
+overflow-x: scroll;
+    }
+    .apr-c {
+        width: 120px;
+    }
+    .arp-list2 {
+        width: auto;
+    }
+    .arp-list2{
+        margin-right: 0px;
+    }
+    .wrp-staked {
+        margin-left: 20px;
+    }
+}

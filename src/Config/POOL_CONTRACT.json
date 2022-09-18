@@ -1,0 +1,8 @@
+[ 
+   {"address": "0x628ba0E1Ad07585C6F5C2643fBaa75130BCA15E2", "ownname" : "CORE" , "endTime" : 1627851600000 , "name": "BIRB" , "lp": 0, "rewardToken": "BIRB" , "sape" : 0 , "rape": 0, "stakeToken": "BIRB" , "website" : "NA" , "image" : "../../images/birb-logo.svg" },
+    {"address": "0xf1273e0331B36E570CBF2A48e7e5c5240735DB1D", "ownname" : "CORE" , "endTime" : 1627851600000 , "name": "NAUT" , "lp": 0, "rewardToken": "BIRB" , "sape" : 0 , "rape": 0, "stakeToken": "NAUT" , "website" : "NA" , "image" : "../../images/birb-logo.svg" },
+    {"address": "0xf0d2df14FD032Aa8B95f6eDf87Fa3C72540fe280", "ownname" : "CORE" , "endTime" : 1627851600000 , "name": "BIRB LP" , "lp": 1, "rewardToken": "BIRB" , "sape" : 0 , "rape": 0, "stakeToken": "BIRB LP" , "website" : "NA" , "image" : "../../images/birb-logo.svg" },
+    {"address": "0xf3503bC338De8e11d542f414dD6b39f80251AEDf", "ownname" : "CORE" , "endTime" : 1627851600000 , "name": "NAUT LP" , "lp": 1, "rewardToken": "BIRB" , "sape" : 0 , "rape": 0, "stakeToken": "NAUT LP" , "website" : "NA" , "image" : "../../images/birb-logo.svg" },
+	{"address": "0xA9F3daC336968aea4ea9Da9591e0a5e97F573A1b", "ownname" : "CORE" , "endTime" : 1627851600000 , "name": "WIZARD" , "lp": 0, "rewardToken": "WIZARD" , "sape" : 0 , "rape": 0, "stakeToken": "WIZARD" , "website" : "NA" , "image" : "../../images/wizard.svg" },
+    {"address": "0xD4B6972cf3c2a48223f36546Af864Cd186Ea330e", "ownname" : "CORE" , "endTime" : 1627851600000 , "name": "WIZARD LP" , "lp": 1, "rewardToken": "WIZARD" , "sape" : 0 , "rape": 0, "stakeToken": "WIZARD LP" , "website" : "NA" , "image" : "../../images/wizard.svg" }
+]
